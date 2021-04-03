@@ -15,3 +15,9 @@ Comandos reset
 ===================================================================
 
 Adicionar modificação que vai pro Github
+
+===================================================================
+
+Trabalhando com Tags
+
+Adicionando Tag e subindo pro github
