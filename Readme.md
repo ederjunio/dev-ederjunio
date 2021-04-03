@@ -7,3 +7,6 @@ Testando segundo commit
 Este curso é bom.
 
 Vendo o comando git diff
+
+
+Comandos reset
