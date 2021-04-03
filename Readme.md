@@ -10,3 +10,8 @@ Vendo o comando git diff
 
 
 Comandos reset
+
+
+===================================================================
+
+Adicionar modificação que vai pro Github
